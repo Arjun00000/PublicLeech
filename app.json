@@ -48,12 +48,12 @@
       "value": "6800",
       "required": false
     },
-    "EDIT_SLEEP_TIME_OUT": { 60 sec
+    "EDIT_SLEEP_TIME_OUT": { 60second
       "description": "should be an integer. Number of seconds to wait before editing a message.",
       "value": "1",
       "required": false
     },
-    "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": { 60 sec.
+    "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": { 60second
       "description": "should be an integer. Number of seconds to wait before cancelling a torrent.",
       "required": false
     },

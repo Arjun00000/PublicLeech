@@ -22,11 +22,11 @@
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
     },
-    "APP_ID": {
+    "APP_ID": {20571414
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
-    "API_HASH": {
+    "API_HASH": {6220322f62bd4e7184c7c40afdbab304
       "description": "Get this value from https://my.telegram.org",
       "value": ""
     },
@@ -48,12 +48,12 @@
       "value": "6800",
       "required": false
     },
-    "EDIT_SLEEP_TIME_OUT": {
+    "EDIT_SLEEP_TIME_OUT": { 60 sec
       "description": "should be an integer. Number of seconds to wait before editing a message.",
       "value": "1",
       "required": false
     },
-    "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": {
+    "MAX_TIME_TO_WAIT_FOR_TORRENTS_TO_START": { 60 sec.
       "description": "should be an integer. Number of seconds to wait before cancelling a torrent.",
       "required": false
     },
